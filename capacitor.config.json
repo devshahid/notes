@@ -1,0 +1,6 @@
+{
+  "appId": "com.capacitordiet.shahid",
+  "appName": "Capacitor Test App",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
